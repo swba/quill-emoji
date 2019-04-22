@@ -1,5 +1,5 @@
 import Quill from 'quill';
-import EmojiBlot from './format-emoji-blot';
+import EmojiBlot from './format-emoji-blot-img';
 import ShortNameEmoji from './module-emoji';
 import ToolbarEmoji from './module-toolbar-emoji';
 import TextAreaEmoji from './module-textarea-emoji';
